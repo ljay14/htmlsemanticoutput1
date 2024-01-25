@@ -1,20 +1,23 @@
 #header{
     margin-top: 0px;
+
 }
 
 #list{
     display: inline;
     margin-right: 90px ;
     font-weight: bold;
-    width: 10cm;
     text-align: center;
-    padding: 30px;
+    padding: 8px;
+    border-radius: 15px;
+    border: 2px solid;
+    background-color: white;
 }
 
 #style1{
     border-bottom: 2px solid #333;
     text-align: center;
-    background-color: cornsilk;
+    background-color: black;
     color: aliceblue;
 }
 #bodystyle{
@@ -24,5 +27,5 @@
 }
 a{
     text-decoration: none;
-    color: black;
+    color:black;
 }
