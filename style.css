@@ -1,7 +1,15 @@
-li{
+#list{
     display: inline;
     margin-right: 90px ;
     font-weight: bold;
     width: 10cm;
     text-align: center;
+    padding: 35px;
+}
+
+#style1{
+    border-bottom: 2px solid #333;
+    text-align: center;
+    background-color: gray;
+    color: aliceblue;
 }
